@@ -211,9 +211,9 @@ for counter in {1000..1099};do
 done
 
 if [ $version == 1 ];then
-    default_name="ico_22_0"
+    default_name="icomute_22_0"
 else
-    default_name="icon_22_0"
+    default_name="iconmute_22_0"
 fi
 
 # create default icon 
